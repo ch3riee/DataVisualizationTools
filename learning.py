@@ -1,3 +1,5 @@
+#Created May 2015 by Cherie M Huang
+
 import heapq
 import csv
 import numpy as np
